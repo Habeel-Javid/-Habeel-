@@ -24,4 +24,4 @@ text = input("Enter a sentence or paragraph: ")
 word_count = count_words(text)
 
 # Display the output
-print("Number of words:", word_count)m
+print("Number of words:", word_count)
